@@ -12,5 +12,9 @@
 if __name__ == "__main__":
     print "test!!"
     print "kkkklll"
+    print "test!!"
+    print "kkkklll"
+    print "test!!"
+    print "kkkklll"
     pass
 
