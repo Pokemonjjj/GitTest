@@ -9,10 +9,4 @@
 @Description: ......
 """
 
-if __name__ == "__main__":
-    print "test!!"
-    print "kkkklll"
-
-    print "kkkklll"
-    pass
-
+print "aaaaaaaaaaaaaaaaaaaaaaa"
