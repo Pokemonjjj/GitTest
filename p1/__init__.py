@@ -9,4 +9,5 @@
 @Description: ......
 """
 
-print "aaaaaaaaaaaaaaaaaaaaaaa"
+if __name__ == '__main__':
+    print "aaaaaaaaaaaaaaaaaaaaaaa"
